@@ -1,0 +1,63 @@
+﻿Game Platform Application
+
+Team members
+
+Chris Adamson
+James Davis
+Ashton Austin
+
+Purpose
+To create a multi-game platform where users can play various games.
+
+Requirements
+1. Name: launch_screen
+Type: functional
+Summary: Starting screen of the program that should let users interact to access other parts of the program
+
+2. Name: tic_tac_toe_game
+Type: functional
+Summary: implementation of the tic_tac_toe_game where the users should play a game of tic-tac-toe
+
+3. Name: connect_four_game
+Type: functional
+Summary: implementation of the connect_four_game where the users should play a game of connect-four
+
+4. Name: rpg_maze_game
+Type: functional
+Summary: implementation of the rpg_maze_game wher ehte users should play the rpg_maze_game
+
+5. Name: game_scoreboard
+Type: functional
+Summary: scoreboard that should allow the users to compare their scores from previous attempts
+
+6. Name: help_button
+Type: functional
+Summary: button that should show the user how to play the game they are currently on
+
+7. Name: back_button
+Type: functional
+Summary: button that should allow the user to go back to the previous screen
+
+8. Name: add_games
+Type: functional
+Summary: Games addition functionality should be added.
+
+9. Name: customize_interface
+Type: functional
+Summary: customizable_interface that should allow different features such as colors to be altered in a given application.
+
+10. Name: platform_os
+Type: constraint
+Summary: the target platform operating system is Windows 10.
+
+11. Name: pause_game
+Type: functional
+Summary: should allow the user to pause the application and allow them to return to that previous state.
+
+12. Name: save_data
+Type: risk
+Summary: saving data such as scores from scoreboard to a database.
+
+13. Name: .net
+Type: constraint
+Summary: the program will have .net 5.0 or higher
