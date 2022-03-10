@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Launch Pad")]
+[assembly: AssemblyTitle("LaunchPad")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("HP Inc.")]
-[assembly: AssemblyProduct("Launch Pad")]
+[assembly: AssemblyProduct("LaunchPad")]
 [assembly: AssemblyCopyright("Copyright © HP Inc. 2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("af2e220a-ed8f-4651-970e-0d851a1fbe9e")]
+[assembly: Guid("25a833b5-ba03-4fdf-8e1e-2e52931e54b2")]
 
 // Version information for an assembly consists of the following four values:
 //

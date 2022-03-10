@@ -1,9 +1,0 @@
-C:\Users\Draco\Source\Repos\SoftwareEgineringClass1\Launch Pad\bin\Debug\Launch Pad.exe.config
-C:\Users\Draco\Source\Repos\SoftwareEgineringClass1\Launch Pad\bin\Debug\Launch Pad.exe
-C:\Users\Draco\Source\Repos\SoftwareEgineringClass1\Launch Pad\bin\Debug\Launch Pad.pdb
-C:\Users\Draco\Source\Repos\SoftwareEgineringClass1\Launch Pad\obj\Debug\Launch Pad.csproj.AssemblyReference.cache
-C:\Users\Draco\Source\Repos\SoftwareEgineringClass1\Launch Pad\obj\Debug\Launch_Pad.Properties.Resources.resources
-C:\Users\Draco\Source\Repos\SoftwareEgineringClass1\Launch Pad\obj\Debug\Launch Pad.csproj.GenerateResource.cache
-C:\Users\Draco\Source\Repos\SoftwareEgineringClass1\Launch Pad\obj\Debug\Launch Pad.csproj.CoreCompileInputs.cache
-C:\Users\Draco\Source\Repos\SoftwareEgineringClass1\Launch Pad\obj\Debug\Launch Pad.exe
-C:\Users\Draco\Source\Repos\SoftwareEgineringClass1\Launch Pad\obj\Debug\Launch Pad.pdb

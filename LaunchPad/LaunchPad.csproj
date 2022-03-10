@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{AF2E220A-ED8F-4651-970E-0D851A1FBE9E}</ProjectGuid>
+    <ProjectGuid>{25A833B5-BA03-4FDF-8E1E-2E52931E54B2}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Launch_Pad</RootNamespace>
-    <AssemblyName>Launch Pad</AssemblyName>
+    <RootNamespace>LaunchPad</RootNamespace>
+    <AssemblyName>LaunchPad</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -54,9 +54,6 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
