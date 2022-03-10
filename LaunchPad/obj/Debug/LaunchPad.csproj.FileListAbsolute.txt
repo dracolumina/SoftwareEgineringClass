@@ -1,0 +1,10 @@
+C:\Users\Draco\Source\Repos\SoftwareEgineringClass1\LaunchPad\bin\Debug\LaunchPad.exe.config
+C:\Users\Draco\Source\Repos\SoftwareEgineringClass1\LaunchPad\bin\Debug\LaunchPad.exe
+C:\Users\Draco\Source\Repos\SoftwareEgineringClass1\LaunchPad\bin\Debug\LaunchPad.pdb
+C:\Users\Draco\Source\Repos\SoftwareEgineringClass1\LaunchPad\obj\Debug\LaunchPad.csproj.AssemblyReference.cache
+C:\Users\Draco\Source\Repos\SoftwareEgineringClass1\LaunchPad\obj\Debug\LaunchPad.Form1.resources
+C:\Users\Draco\Source\Repos\SoftwareEgineringClass1\LaunchPad\obj\Debug\LaunchPad.Properties.Resources.resources
+C:\Users\Draco\Source\Repos\SoftwareEgineringClass1\LaunchPad\obj\Debug\LaunchPad.csproj.GenerateResource.cache
+C:\Users\Draco\Source\Repos\SoftwareEgineringClass1\LaunchPad\obj\Debug\LaunchPad.csproj.CoreCompileInputs.cache
+C:\Users\Draco\Source\Repos\SoftwareEgineringClass1\LaunchPad\obj\Debug\LaunchPad.exe
+C:\Users\Draco\Source\Repos\SoftwareEgineringClass1\LaunchPad\obj\Debug\LaunchPad.pdb
