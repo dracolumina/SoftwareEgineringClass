@@ -1,6 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\.git",
+    "\\Documents",
+    "\\Local settings (.vs)",
+    "\\Local settings (.vs)\\Repos",
+    "\\Local settings (.vs)\\Repos\\v16",
+    "\\Local settings (.vs)\\SoftwareEgineringClass"
   ],
   "PreviewInSolutionExplorer": false
 }
