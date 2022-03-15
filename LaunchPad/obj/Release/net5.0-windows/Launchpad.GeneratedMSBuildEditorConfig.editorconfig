@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = Launchpad
-build_property.ProjectDir = C:\Users\Draco\Source\Repos\SoftwareEgineringClass\LaunchPad\
+build_property.ProjectDir = C:\Users\Draco\source\repos\SoftwareEgineringClass\LaunchPad\
